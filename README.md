@@ -2,22 +2,61 @@
 
 A collection of calculator projects built using HTML, CSS, and JavaScript.
 
-## Versions :
+## 🌐 Live Demo
 
-### 1. Basic Calculator
-A simple calculator for basic arithmetic operations.
+Visit the project here:
 
-### 2. Pastel Calculator
-A colorful calculator with a soft pastel-themed interface.
+https://cbsneha11-rgb.github.io/CALCIFY/
 
-### 3. Animated Calculator
-An animated calculator featuring visual effects and interactive design elements.
+---
 
-## Technologies Used
+## 📸 Project Screenshots
 
-- HTML
-- CSS
-- JavaScript
+### 🎨 Pastel Calculator
 
-## Author
+![Pastel Calculator](pastel-calculator.png)
+
+### 🧮 Basic Calculator
+
+![Basic Calculator](basic-calculator.png)
+
+### ✨ Animated Calculator
+
+![Animated Calculator](animated-calculator.png)
+
+---
+
+## 🚀 Features
+
+* Basic arithmetic operations
+* Clean and user-friendly interface
+* Pastel-themed design
+* Animated visual effects
+* Built entirely with HTML, CSS, and JavaScript
+
+---
+
+## 🛠 Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+## 👩‍💻 Author
+
 Sneha Saha
+
+---
+
+## 📚 Learning Outcome
+
+This project helped me learn:
+
+* HTML structure
+* CSS styling
+* JavaScript functionality
+* GitHub repositories
+* GitHub Pages deployment
+* Project documentation with README files
